@@ -1,0 +1,16 @@
+plugin:
+    name: 'paulallen.mealplanner::lang.plugin.name'
+    description: 'paulallen.mealplanner::lang.plugin.description'
+    author: PaulAllen
+    icon: oc-icon-spoon
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Recipes
+        url: paulallen/mealplanner/recipes
+        icon: icon-spoon
+        sideMenu:
+            recipe-tags:
+                label: Tags
+                url: paulallen/mealplanner/tags
+                icon: icon-tags

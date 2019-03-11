@@ -1,0 +1,10 @@
+name: Recipes
+form: $/paulallen/mealplanner/models/recipe/fields.yaml
+modelClass: Paulallen\MealPlanner\Models\Recipe
+defaultRedirect: paulallen/mealplanner/recipes
+create:
+    redirect: 'paulallen/mealplanner/recipes/update/:id'
+    redirectClose: paulallen/mealplanner/recipes
+update:
+    redirect: paulallen/mealplanner/recipes
+    redirectClose: paulallen/mealplanner/recipes

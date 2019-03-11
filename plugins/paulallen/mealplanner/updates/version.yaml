@@ -1,0 +1,32 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table paulallen_mealplanner_recipes'
+    - builder_table_create_paulallen_mealplanner_recipes.php
+1.0.3:
+    - 'Created table paulallen_mealplanner_tags'
+    - builder_table_create_paulallen_mealplanner_tags.php
+1.0.4:
+    - 'Created table paulallen_mealplanner_recipes_tags'
+    - builder_table_create_paulallen_mealplanner_recipes_tags.php
+1.0.5:
+    - 'Created table paulallen_mealplanner_ingredients'
+    - builder_table_create_paulallen_mealplanner_ingredients.php
+1.0.6:
+    - 'Updated table paulallen_mealplanner_recipes'
+    - builder_table_update_paulallen_mealplanner_recipes.php
+1.0.7:
+    - 'Updated table paulallen_mealplanner_ingredients'
+    - builder_table_update_paulallen_mealplanner_ingredients.php
+1.0.8:
+    - 'Updated table paulallen_mealplanner_recipes'
+    - builder_table_update_paulallen_mealplanner_recipes_2.php
+1.0.9:
+    - 'Updated table paulallen_mealplanner_recipes'
+    - builder_table_update_paulallen_mealplanner_recipes_3.php
+1.0.10:
+    - 'Created table paulallen_mealplanner_dates'
+    - builder_table_create_paulallen_mealplanner_dates.php
+1.0.11:
+    - 'Created table paulallen_mealplanner_recipes_dates'
+    - builder_table_create_paulallen_mealplanner_recipes_dates.php

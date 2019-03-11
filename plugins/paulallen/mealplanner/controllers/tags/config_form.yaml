@@ -1,0 +1,10 @@
+name: Tags
+form: $/paulallen/mealplanner/models/tag/fields.yaml
+modelClass: Paulallen\MealPlanner\Models\Tag
+defaultRedirect: paulallen/mealplanner/tags
+create:
+    redirect: 'paulallen/mealplanner/tags/update/:id'
+    redirectClose: paulallen/mealplanner/tags
+update:
+    redirect: paulallen/mealplanner/tags
+    redirectClose: paulallen/mealplanner/tags

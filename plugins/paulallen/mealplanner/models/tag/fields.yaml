@@ -1,0 +1,9 @@
+fields:
+    name:
+        label: 'Tag Name'
+        span: auto
+        type: text
+    color:
+        label: 'Tag Color'
+        span: auto
+        type: colorpicker
